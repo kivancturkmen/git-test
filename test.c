@@ -7,5 +7,6 @@ int main ()
 	printf ("eni viki vokke");
 	printf("hello world!");
 	printf("result : %d",result);
+	// duzenle buraları
 	return 0;
 }
